@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/dDkmsqAIqZpG6oy8GIcXdW/cCzIvyxX9WFL70d4WNuj5s4SoOmXb9bWxzNbUjKSSItqMB0Xq+xNNCfmQ2eZUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ghost\\source\\repos\\FNLauncher\\FNLauncher\\Lithium Launcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ghost\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

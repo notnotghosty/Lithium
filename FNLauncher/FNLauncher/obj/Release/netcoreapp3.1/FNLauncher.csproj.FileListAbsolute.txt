@@ -1,0 +1,13 @@
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\bin\Release\netcoreapp3.1\FNLauncher.exe
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\bin\Release\netcoreapp3.1\FNLauncher.deps.json
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\bin\Release\netcoreapp3.1\FNLauncher.runtimeconfig.json
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\bin\Release\netcoreapp3.1\FNLauncher.runtimeconfig.dev.json
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\bin\Release\netcoreapp3.1\FNLauncher.dll
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\bin\Release\netcoreapp3.1\FNLauncher.pdb
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\FNLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\FNLauncher.AssemblyInfoInputs.cache
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\FNLauncher.AssemblyInfo.cs
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\FNLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\FNLauncher.dll
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\FNLauncher.pdb
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\FNLauncher.genruntimeconfig.cache

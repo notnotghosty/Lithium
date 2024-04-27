@@ -1,0 +1,13 @@
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\bin\Release\netcoreapp3.1\Lithium Launcher.exe
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\bin\Release\netcoreapp3.1\Lithium Launcher.deps.json
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\bin\Release\netcoreapp3.1\Lithium Launcher.runtimeconfig.json
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\bin\Release\netcoreapp3.1\Lithium Launcher.runtimeconfig.dev.json
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\bin\Release\netcoreapp3.1\Lithium Launcher.dll
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\bin\Release\netcoreapp3.1\Lithium Launcher.pdb
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\Lithium Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\Lithium Launcher.AssemblyInfoInputs.cache
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\Lithium Launcher.AssemblyInfo.cs
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\Lithium Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\Lithium Launcher.dll
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\Lithium Launcher.pdb
+C:\Users\Ghost\source\repos\FNLauncher\FNLauncher\obj\Release\netcoreapp3.1\Lithium Launcher.genruntimeconfig.cache
