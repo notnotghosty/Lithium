@@ -41,6 +41,9 @@ class Class1
 
     static void Main(string[] args)
     {
+        // Display watermark
+        DisplayWatermark();
+
         // Get the directory of the current executable
         string currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
 
@@ -52,6 +55,12 @@ class Class1
         // Wait for the target process to start and inject the DLL immediately
         string targetProcessName = "FortniteClient-Win64-Shipping";
         InjectDllWhenProcessStarts(targetProcessName, currentDirectory, "Cobalt.dll");
+    }
+
+    static void DisplayWatermark()
+    {
+        Console.WriteLine("Lithium Launcher By NotNotGhosty");
+        Console.WriteLine("Join our discord: https://discord.gg/4R8qCwEVhk");
     }
 
     static void InjectDllWhenProcessStarts(string processName, string currentDirectory, string dllName)
