@@ -18,4 +18,8 @@ Lithium Launcher is a lightweight C# utility designed to launch applications and
 - **DLL Injection**: Inject DLLs into the memory space of running processes for enhanced functionality.
 - **Automated Injection**: Automatically inject DLLs into target processes as soon as they start, ensuring seamless integration without user intervention.
 
+### To Do
 
+- **Multiple DLL Injection**: Support Multiple Dlls being injected, with the ability to add a wait time per dll
+- **UI Overhaul**: Add profiles, with support for multiple profiles
+- **App Tracking**: Tracks the app it starts to make sure the app it's injecting the dll into is the app it started.
