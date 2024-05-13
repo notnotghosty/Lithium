@@ -1,4 +1,4 @@
-# Lithium Launcher (Designed with the intention to be used with OG fortnite)
+# Lithium Launcher
 
 Lithium Launcher is a lightweight C# utility designed to launch applications and inject dynamic link libraries (DLLs) into target processes seamlessly. With Lithium Launcher, you can automate the process of launching applications and injecting DLLs, enhancing their functionality without manual intervention.
 
@@ -22,3 +22,5 @@ Lithium Launcher is a lightweight C# utility designed to launch applications and
 
 - **Multiple DLL Injection**: Support Multiple Dlls being injected, with the ability to add a wait time per dll
 - **App Tracking**: Tracks the app it starts to make sure the app it's injecting the dll into is the app it started.
+
+### Lithium is designed with the intention to be used with OG Fortnite.
