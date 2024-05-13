@@ -4,13 +4,13 @@ Lithium Launcher is a lightweight C# utility designed to launch applications and
 
 ## How to Use
 
-1. **Download**: download the Lithium Launcher repository to your local machine.
+1. **Download**: download Lithium Launcher project files to your local machine.
 
-2. **Configuration**: Edit the source code (`Program.cs`) to specify the applications you want to launch and the DLLs you want to inject into their processes. Modify the `Main` method to define the executable paths, launch arguments, target process names, and DLL names as needed.
+2. **Configuration**: Edit the source code (`Program.cs`) to specify the applications you want to launch and the DLLs you want to inject into their processes. Modify the `Main` method to define the executable paths, launch arguments, target process names, and DLL names as needed. (if you're using Fortnite, cobalt redirect, and you have already installed Lawin's Fortnite.exe from his discord then no modifcations are needed.)
 
-3. **Build**: Build the Lithium Launcher project using your preferred C# compiler.
+3. **Build**: Build Lithium Launcher project using your preferred C# compiler (like VS Studio).
 
-4. **Execution**: Execute the compiled Lithium Launcher executable (`LithiumLauncher.exe`) from the desired location. Ensure that the Lithium Launcher executable, the target applications, and the DLLs to be injected are all placed in the same folder for seamless operation.
+4. **Execution**: Execute compiled Launcher executable (`LithiumLauncher.exe`) from the desired location (ie: Fortnite). Ensure that Lithium's executable, the target applications, and the DLLs to be injected are all placed in the same folder for the program to function properly.
 
 ## Features
 
@@ -20,7 +20,7 @@ Lithium Launcher is a lightweight C# utility designed to launch applications and
 
 ### To Do
 
-- **Multiple DLL Injection**: Support Multiple Dlls being injected, with the ability to add a wait time per dll
-- **App Tracking**: Tracks the app it starts to make sure the app it's injecting the dll into is the app it started.
+- **Multiple DLL Injection**: Support Multiple Dll injection, with ability to add wait time per dll.
+- **App Tracking**: Tracks the app started by Lithium to make sure the app it's injecting the dlls into is the app it started.
 
 ### Lithium is designed with the intention to be used with OG Fortnite.
