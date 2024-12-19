@@ -20,7 +20,7 @@ Lithium Launcher is a lightweight C# utility designed to launch applications and
 
 ### To Do
 
-- **Multiple DLL Injection**: Support Multiple Dll injection, with ability to add wait time per dll.
+- **Multiple DLL Injection**: Support Multiple DLL injection, with the ability to add wait time per dll. (I did actually have this working for a minute, but I broke it when I tried to add App Tracking and lost the working version)
 - **App Tracking**: Tracks the app started by Lithium to make sure the app it's injecting the dlls into is the app it started.
 
 ### Lithium is designed with the intention to be used with OG Fortnite.
